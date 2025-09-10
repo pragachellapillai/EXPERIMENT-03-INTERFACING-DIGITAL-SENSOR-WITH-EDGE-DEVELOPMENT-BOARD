@@ -95,10 +95,13 @@ while True:
 
 ## **OUTPUT:**
 
+
+
 The serial monitor displays the real-time temperature and humidity values as shown below:
 
 
-<img width="275" height="319" alt="486399921-4e10993c-41cf-4fc4-bba2-e110dac3c48f" src="https://github.com/user-attachments/assets/a9caafe5-e540-4c44-b8fe-d64dcdd300f9" />
+<img width="870" height="222" alt="Screenshot 2025-09-10 153514" src="https://github.com/user-attachments/assets/f30cfab0-f56d-4f92-812d-8f9c21470e0e" />
+
 
 
 
@@ -107,6 +110,6 @@ The serial monitor displays the real-time temperature and humidity values as sho
 ## **RESULT:**  
 The **DHT22 sensor** was successfully interfaced with the **Raspberry Pi Pico**, and real-time **temperature and humidity data** were read and displayed. The LEDs responded correctly when the threshold limits were exceeded.
 
----
+
 
  
