@@ -91,23 +91,20 @@ while True:
 
     time.sleep(1)  # delay 1 second between readings
 
----
 
-## **OUTPUT:**
+## OUTPUT:
 
 
 
 The serial monitor displays the real-time temperature and humidity values as shown below:
 
 
-<img width="870" height="222" alt="Screenshot 2025-09-10 153514" src="https://github.com/user-attachments/assets/f30cfab0-f56d-4f92-812d-8f9c21470e0e" />
+<img width="870" height="222" alt="Screenshot 2025-09-10 153514" src="https://github.com/user-attachments/assets/79ebfe45-e935-471d-97a3-f25e2d13b115" />
 
 
 
-
-
-
-## **RESULT:**  
+## RESULT:
+  
 The **DHT22 sensor** was successfully interfaced with the **Raspberry Pi Pico**, and real-time **temperature and humidity data** were read and displayed. The LEDs responded correctly when the threshold limits were exceeded.
 
 
