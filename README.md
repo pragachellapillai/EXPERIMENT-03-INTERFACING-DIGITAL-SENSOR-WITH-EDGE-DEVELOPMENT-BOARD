@@ -98,11 +98,11 @@ while True:
 
 ## OUTPUT:
 
-
-
 The serial monitor displays the real-time temperature and humidity values as shown below:
 
-<img width="306" height="357" alt="image" src="https://github.com/user-attachments/assets/db65c347-8820-49dd-b230-fff8f2405dbc" />
+<img width="275" height="319" alt="486399921-4e10993c-41cf-4fc4-bba2-e110dac3c48f" src="https://github.com/user-attachments/assets/b7da700e-533a-487b-8720-3d026056697c" />
+
+
 
 
 ## RESULT:
