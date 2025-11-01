@@ -53,6 +53,10 @@ The sensor measures **temperature using a thermistor** and **humidity using a ca
 ---
 
 ## **CIRCUIT DIAGRAM:**  
+
+<img width="667" height="520" alt="489119817-74ce0b52-5f3d-45d0-b19b-17cb627aae2c" src="https://github.com/user-attachments/assets/4949908d-fa8c-408a-a914-654021e608b7" />
+
+
 ### **Connections:**  
 
 | DHT22 Pin | Raspberry Pi Pico Pin |
@@ -98,9 +102,7 @@ while True:
 
 The serial monitor displays the real-time temperature and humidity values as shown below:
 
-
-<img width="870" height="222" alt="Screenshot 2025-09-10 153514" src="https://github.com/user-attachments/assets/79ebfe45-e935-471d-97a3-f25e2d13b115" />
-
+<img width="306" height="357" alt="image" src="https://github.com/user-attachments/assets/db65c347-8820-49dd-b230-fff8f2405dbc" />
 
 
 ## RESULT:
